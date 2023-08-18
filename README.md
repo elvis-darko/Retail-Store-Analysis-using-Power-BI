@@ -10,7 +10,7 @@
 # Notes on Data
 The following are details of the data used for the project.
 **Retailer:**The name of the sub-retailer.
-**RetailID:**The idenstification number of the sub-retailer.
+**Retail ID:**The idenstification number of the sub-retailer.
 **Invoice date:**Date on which invoice was issued
 **Region:**The region where sub-retailer is located.   
 **State:**The state where sub-retailer is located. 
@@ -27,7 +27,25 @@ The following are details of the data used for the project.
 
 
 # Insights from Analysis
+1. The top five (5) cities with the highest units of beverages sold were;
+- New York City - 706600
+- Charleston - 661950
+- Miami- 597850
+- Atlanta - 579350
+- Houston - 566000
 
+2. The top three (3) retailers with the highest sales were;
+- Sodapop - $4,400,000.00
+- FizzySip - $2,600,000.00
+- BevCo - $ 1,300,000.00
+
+3. The top three (3) beverage brands with the highest sales were;
+- Coca-Cola - $2,015,890.00(23.21%)
+- Dasani Water - $1,725,837.50(19.87%)
+- Diet Coke - $1,481,425.00(17.06%)
+
+4. The top three (3) months with the highest sales were;
+- 
 
 # Recommendations
 
