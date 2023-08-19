@@ -4,8 +4,8 @@
 
 # Project Details
 | Code      | Project Name        |   Deployed File link | Tool |
-|:-----------:|:-------------|:------|:..........|
-|001|Retail Sore Analysis|    [PowerBI page](https://app.powerbi.com/groups/b6784117-1966-4656-9036-05bdbc147598/reports/e3194334-ed69-46e4-810d-c1a3601c9550/ReportSection?experience=power-bi) |Power BI |
+|:-----------:|:-------------|:------|------|
+|001|Retail Sore Analysis|    [PowerBI Page](https://app.powerbi.com/groups/b6784117-1966-4656-9036-05bdbc147598/reports/e3194334-ed69-46e4-810d-c1a3601c9550/ReportSection?experience=power-bi) |Power BI |
 
 # Notes on Data
 The following are details of the data used for the project.<br />
