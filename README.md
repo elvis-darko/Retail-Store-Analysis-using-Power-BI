@@ -1,5 +1,5 @@
 # Retail Store Analysis using Power BI
- In this project, I analyze records of data from a retail chain stores, Groupe Darko Retails.
+ In this project, I analyze sales records of data from a retail chain stores, Groupe Darko Retails.
 
 
 # Project Details
